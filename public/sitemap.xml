@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO: prepend the project URL to each <loc> once a domain is set. -->
+<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">
+  <url><loc>/</loc><priority>1.0</priority></url>
+  <url><loc>/calculators</loc><priority>0.8</priority></url>
+  <url><loc>/property-tax-calculator</loc><priority>0.9</priority></url>
+  <url><loc>/vehicle-tax-calculator</loc><priority>0.9</priority></url>
+  <url><loc>/cash-withdrawal-tax-calculator</loc><priority>0.9</priority></url>
+  <url><loc>/bank-profit-tax-calculator</loc><priority>0.9</priority></url>
+  <url><loc>/annual-vehicle-tax-calculator</loc><priority>0.9</priority></url>
+  <url><loc>/mobile-bill-tax-calculator</loc><priority>0.9</priority></url>
+  <url><loc>/electricity-bill-tax-calculator</loc><priority>0.9</priority></url>
+  <url><loc>/savings-summary</loc><priority>0.8</priority></url>
+  <url><loc>/filer-status-checker</loc><priority>0.9</priority></url>
+  <url><loc>/guides</loc><priority>0.7</priority></url>
+  <url><loc>/guides/how-to-become-a-tax-filer</loc><priority>0.7</priority></url>
+  <url><loc>/guides/filer-vs-non-filer-guide</loc><priority>0.7</priority></url>
+  <url><loc>/guides/fbr-atl-list-explained</loc><priority>0.7</priority></url>
+  <url><loc>/guides/section-236c-vs-236k</loc><priority>0.7</priority></url>
+  <url><loc>/guides/cash-withdrawal-tax-explained</loc><priority>0.7</priority></url>
+  <url><loc>/about</loc><priority>0.5</priority></url>
+  <url><loc>/contact</loc><priority>0.5</priority></url>
+  <url><loc>/privacy-policy</loc><priority>0.3</priority></url>
+  <url><loc>/terms-and-conditions</loc><priority>0.3</priority></url>
+  <url><loc>/disclaimer</loc><priority>0.3</priority></url>
+
+</urlset>
